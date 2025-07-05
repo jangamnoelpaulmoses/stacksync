@@ -1,0 +1,6 @@
+*
+!Dockerfile*
+!Dockerfile.local
+!requirements.txt
+!app.py
+!executor.py
